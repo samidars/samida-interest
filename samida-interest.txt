@@ -1,0 +1,6 @@
+Hi! I'm Samida, a Automation Engineer at Tesco Indomaritim. Some technologies or topics I'm exploring:
+• SCADA system
+• Programmable Logic Controller and Human Machine Interface
+• Internet of Things
+• Designing websites
+• Microcontroller
