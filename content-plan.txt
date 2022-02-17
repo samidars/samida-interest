@@ -3,5 +3,6 @@ Content plant :
   * Framework PHP
     ^CodeIgniter 4
     ^Laravel
+- Javascript
 - HTML, CSS & JavaScript Programming
 - Web Designing
