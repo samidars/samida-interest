@@ -4,5 +4,4 @@ Hi! I'm Samida, a Automation Engineer at Tesco Indomaritim. Some technologies or
 • Internet of Things
 • Designing websites
 • Microcontroller
-• Python
 
